@@ -1,0 +1,6 @@
+2025/01/08-19:38:37.338 f503 Creating DB /Users/tiagopedra/Library/Application Support/Google/Chrome/Default/WebStorage/152/IndexedDB/indexeddb.leveldb since it was missing.
+2025/01/08-19:38:37.341 f503 Reusing MANIFEST /Users/tiagopedra/Library/Application Support/Google/Chrome/Default/WebStorage/152/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/01/08-23:19:18.702 8303 Level-0 table #5: started
+2025/01/08-23:19:18.705 8303 Level-0 table #5: 39036 bytes OK
+2025/01/08-23:19:18.706 8303 Delete type=0 #3
+2025/01/08-23:19:18.707 8303 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
